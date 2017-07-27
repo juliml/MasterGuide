@@ -1,0 +1,85 @@
+/* 
+  Localizable.strings
+  MasterGuide
+
+  Created by Juliana Lima on 10/10/12.
+  Copyright (c) 2012 Flip Design. All rights reserved.
+*/
+"tabHome" = "Home";
+"tabCidade" = "São Paulo";
+"tabLocais" = "Locais";
+"tabCamera" = "Câmera";
+"tabAjustes" = "Ajustes";
+
+"titAjustes" = "Ajustes";
+"btnIdioma" = "Idioma";
+
+"tempoHome" = "Faltam";
+"diasHome" = "Dias";
+"horasHome" = "Horas";
+"minHome" = "Minutos";
+"segHome" = "Seg";
+
+"materiasHome" = "Matérias Especiais";
+"dicasHome" = "Master Dicas";
+"parceirosHome" = "Parceiros Oficiais";
+
+"btnVoltar" = "Voltar";
+"btnCancelar" = "Cancelar";
+"btnConfirmar" = "Confirmar";
+"btnEditar" = "Editar";
+"btnRota" = "Traçar Rota";
+"btnTelefone" = "Endereço e Telefone";
+"mapaTelefone" = "Telefone para este local";
+
+"btnShareLink" = "Copiar link";
+"btnShareEmail" = "Enviar link por e-mail";
+"txtShareEmail" = "Compartilhar link via MasterGuide App";
+
+"titLocais" = "Locais Próximos";
+
+"txtComoChegar" = "Como Chegar?";
+
+"titCamera" = "Câmera";
+"txtCamera" = "Encontrou-se com um campeão da F1? Presenciou um momento incrível da corrida? Tire uma foto e compartilhe via TwitPic sua lembrança!";
+"btnCamera" = "Tire uma foto!";
+
+"menuCidade" = "Cidade";
+"menuDiversao" = "Diversão";
+"menuCompras" = "Compras";
+"menuRestaurantes" = "Restaurantes";
+"menuExposicoes" = "Exposições";
+"menuBares" = "Bares";
+"menuTeatros" = "Teatros";
+"menuParques" = "Parques";
+"menuHoteis" = "Hotéis";
+"menuTelefones" = "Telefones Úteis";
+"menuFavoritos" = "Locais Favoritos";
+
+"sharedFavoritar" = "Favoritar Local";
+"sharedEmail" = "Envie um E-mail";
+"sharedSite" = "Acesse o site";
+
+"alertaLigarTitulo" = "Deseja Telefonar?";
+"alertaLigarTexto" = "Para realizar a chamada, você sairá do app.";
+"alertaCidade" = "No momento só São Paulo.";
+"alertaRotaTitulo" = "Deseja chegar neste local?";
+"alertaRotaTexto" = "Você sairá do app para traçar a rota";
+"alertaSiteTitulo" = "Deseja acessar o site?";
+"alertaSiteTexto" = "Você sairá do app para acessar o link";
+"alertaCheckTitulo" = "MasterGuide";
+"alertaCheckTexto" = "Você confirma o Checkin neste local?";
+
+"alertSociaisTitulo" = "Já configurou sua rede?";
+"alertSociaisTexto" = "Antes de compartilhar em suas redes sociais, configure sua conta";
+
+"alertSociaisCancTit" = "Tem certeza?";
+"alertSociaisCancTxt" = "Desconectar da sua conta";
+
+"alertSemSite" = "Este local não possui site";
+"alertaSemTelefone" = "Este local não possui número";
+
+"alertConectTitulo" = "Habilitar rede?";
+"alertConectTexto" = "Esse app deseja ter acesso a sua conta do";
+
+"textoEmail" = "Contato via MasterGuide App";

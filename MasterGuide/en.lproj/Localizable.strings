@@ -1,0 +1,85 @@
+/* 
+  Localizable.strings
+  MasterGuide
+
+  Created by Juliana Lima on 10/10/12.
+  Copyright (c) 2012 Flip Design. All rights reserved.
+*/
+"tabHome" = "Home";
+"tabCidade" = "São Paulo";
+"tabLocais" = "Places";
+"tabCamera" = "Camera";
+"tabAjustes" = "Settings";
+
+"titAjustes" = "Settings";
+"btnIdioma" = "Language";
+
+"tempoHome" = "Remaining";
+"diasHome" = "Days";
+"horasHome" = "Hours";
+"minHome" = "Minutes";
+"segHome" = "Sec";
+
+"materiasHome" = "Special News";
+"dicasHome" = "Master Tips";
+"parceirosHome" = "Official Partners";
+
+"btnVoltar" = "Back";
+"btnCancelar" = "Cancel";
+"btnConfirmar" = "Confirm";
+"btnEditar" = "Edit";
+"btnRota" = "Trace Route";
+"btnTelefone" = "Address and Phone";
+"mapaTelefone" = "Call this place";
+
+"btnShareLink" = "Copy link";
+"btnShareEmail" = "Send link by e-mail";
+"txtShareEmail" = "Share link via MasterGuide App";
+
+"titLocais" = "Places";
+
+"txtComoChegar" = "How to get there?";
+
+"titCamera" = "Camera";
+"txtCamera" = "Found an F1 Champion? Witnessed an incredible moment of the race? Take a photo via TwitPic and share your memories!";
+"btnCamera" = "Take a picture!";
+
+"menuCidade" = "City";
+"menuDiversao" = "Entertainment";
+"menuCompras" = "Shopping";
+"menuRestaurantes" = "Restaurants";
+"menuExposicoes" = "Galleries";
+"menuBares" = "Bars";
+"menuTeatros" = "Theaters";
+"menuParques" = "Parks";
+"menuHoteis" = "Hotels";
+"menuTelefones" = "Useful Numbers";
+"menuFavoritos" = "Favorites";
+
+"sharedFavoritar" = "Favorites";
+"sharedEmail" = "Send an Email";
+"sharedSite" = "Visit the site";
+
+"alertaLigarTitulo" = "Want to Call?";
+"alertaLigarTexto" = "To make the call, you leave the app.";
+"alertaCidade" = "At the moment only São Paulo.";
+"alertaRotaTitulo" = "Want to get on this site?";
+"alertaRotaTexto" = "You'll leave the app to trace the route";
+"alertaSiteTitulo" = "Want access the site?";
+"alertaSiteTexto" = "You'll leave the app to access the link";
+"alertaCheckTitulo" = "MasterGuide";
+"alertaCheckTexto" = "You Checkin confirms this location?";
+
+"alertSociaisTitulo" = "Have you setup your network?";
+"alertSociaisTexto" = "Before you share in your social networks, configure your account";
+
+"alertSociaisCancTit" = "Are you sure?";
+"alertSociaisCancTxt" = "Disconnect your account";
+
+"alertSemSite" = "This place has no site";
+"alertaSemTelefone" = "This place has no number";
+
+"alertConectTitulo" = "Enable network?";
+"alertConectTexto" = "This app wants access to your account";
+
+"textoEmail" = "Contact via MasterGuide App";
